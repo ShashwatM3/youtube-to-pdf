@@ -68,8 +68,8 @@ The tool uses a sophisticated pipeline:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd youtube-transcript-to-pdf
+git clone https://github.com/ShashwatM3/youtube-to-pdf.git
+cd PDFYOUTUBE
 ```
 
 ### 2. Install Dependencies
@@ -93,14 +93,6 @@ YOUTUBE_TRANSCRIPT_API_TOKEN=your_youtube_transcript_api_token_here
 1. Visit [youtube-transcript.io](https://www.youtube-transcript.io/api)
 2. Sign up for an account
 3. Get your API token from the dashboard
-
-### 4. Install Additional Dependencies
-Some dependencies might need to be installed separately:
-```bash
-pip install markdown-pdf
-pip install streamlit
-pip install pypdf
-```
 
 ## 🎯 Usage
 
@@ -173,7 +165,7 @@ Contributions are welcome! Here are some areas where you can help:
 ## 🙏 Acknowledgments
 
 - Built with OpenAI's GPT-4o model
-- Uses the YouTube Transcript API for content extraction
+- Uses the YouTube Transcript API for automatic content extraction
 - Powered by Streamlit for the web interface
 - Leverages markdown-pdf for PDF generation
 
