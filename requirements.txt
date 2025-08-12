@@ -1,0 +1,11 @@
+pydantic
+bs4
+requests
+rich
+python-dotenv
+openai-agents
+google-search-results
+markdown
+markdown-pdf
+streamlit
+pypdf
