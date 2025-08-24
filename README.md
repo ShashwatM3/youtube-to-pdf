@@ -1,6 +1,6 @@
-# YouTube Transcript to PDF Converter
+# YouTube Books
 
-A powerful AI-powered tool that automatically converts YouTube video transcripts into well-formatted, professional PDF documents. Perfect for content creators, researchers, students, and anyone who wants to escape tutorial hell, get a portable version of videos, or make their content creation workflows wayy simpler.
+A powerful AI-powered tool that automatically converts YouTube video transcripts into well-formatted, professional PDF "books". Perfect for content creators, researchers, students, and anyone who wants to escape tutorial hell, get a portable version of videos, or make their content creation workflows wayy simpler.
 
 ## 🚀 What This Tool Does
 
@@ -10,7 +10,7 @@ This tool transforms YouTube videos into readable PDF documents by:
 2. **AI-Powered Processing**: Uses GPT-4o to intelligently sectionize and refine the transcript content
 3. **Smart Content Organization**: Breaks down long transcripts into logical, well-structured sections
 4. **Professional Formatting**: Converts raw transcript text into clean, readable markdown with proper headings
-5. **PDF Generation**: Creates high-quality PDF documents ready for reading, sharing, or printing
+5. **PDF Generation**: Creates content-relevant value-consistent PDF books ready for reading, sharing, or printing
 
 ## ✨ Why You Should Use This Tool
 
